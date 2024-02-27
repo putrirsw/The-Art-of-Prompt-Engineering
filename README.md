@@ -6,17 +6,18 @@ This project delves into the concept of prompt engineering, a crucial aspect of 
 
 --------------------------------------------------------
 # Mentee Info!
-Name : Putri Riani Setyo Wulandari
-Program : IBM Advance AI
+## Name : Putri Riani Setyo Wulandari
+## Program : IBM Advance AI
+## Mentor : Jonathan Situmorang
 --------------------------------------------------------
 
-# Here's what you can expect to learn and be able to do as a result of completing this project:
+## Here's what you can expect to learn and be able to do as a result of completing this project:
 1. Understand the concept of prompt engineering and its importance in AI models like ChatGPT. You'll be able to craft effective prompts that can significantly improve the performance of AI tools.
 2. Apply the principles of prompt engineering in a practical project on survival analysis using Python. You'll gain hands-on experience in implementing these strategies, which will enhance your skills in AI and data analysis.
 3. Get familiar with prompt engineering using Langchain library.
 
 
-# Skill learn in this Course
+## Skill learn in this Course
 - Generative AI
 - LLM
 - Artificial Intelligence
